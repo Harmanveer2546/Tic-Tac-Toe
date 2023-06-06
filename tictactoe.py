@@ -1,5 +1,3 @@
-
-
 # Function to print Tic Tac Toe
 def mytictactoe(val):
     print("\n")
